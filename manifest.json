@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Text Toolkit Pro",
+  "version": "1.0.0",
+  "description": "A modern Chrome extension for text formatting and analysis.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "clipboardWrite"
+  ]
+}
